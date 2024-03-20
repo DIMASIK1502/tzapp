@@ -5,13 +5,13 @@ ChakraUI вместо styled-component, Zustand вместо redux-toolkit.
 
 Установка зависимостей
 ```sh
-npm i
+npm i # или yarn
 ```
 Запуск в дев режиме
 ```sh
-npm run dev
+npm run dev # или yarn dev
 ```
 Прод. сборка
 ```sh
-npm run build
+npm run build # или yarn build
 ```
